@@ -14,6 +14,8 @@
 <a href="https://github.com/qassuncao/pyscript-demo/network/members"><img src="https://img.shields.io/github/forks/qassuncao/pyscript-demo" alt="forks"/></a>
 <a href="https://www.linkedin.com/in/fabio-assunção-qa/"><img src="https://img.shields.io/badge/qassuncao-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-assunção-qa/" alt="linkedin"/></a>
 
+![AppVeyor tests](https://img.shields.io/appveyor/tests/qassuncao/pyscript-demo)
+
 <i>Código replicado via mobile para criar uma demonstração do PyScript com uma TO DO List.</i>
 
 ---
