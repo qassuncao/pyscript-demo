@@ -19,4 +19,5 @@
 <a href="https://github.com/qassuncao/pyscript-demo/releases"><img src="https://img.shields.io/github/v/release/qassuncao/pyscript-demo" alt="releases"/></a>
 <a href="https://github.com/qassuncao/pyscript-demo/actions?query=workflow%3Arelease"><img src="https://github.com/qassuncao/pyscript-demo/workflows/release/badge.svg" alt="Release build"/></a>
 
+---
 ## Descrição
