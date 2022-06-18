@@ -22,12 +22,12 @@
 
 ## Descrição
 
-<i>Pesquisando sobre Pyscript, resolvi replicar esse código criado em um dos vídeos do Canal Pythonando com meu celular, justamente para ver o comportamento dessa nova ferramenta. Sim, ela rodou, mas como é uma ferramenta em fase Alpha (até esse momento) e inclusive a home do pycript.net orienta que ainda não seja utilizado em projetos que estejam em produção, não ficou estéticamente bonito e o tempo de carregamento do código foi considerável.<i>
+Pesquisando sobre Pyscript, resolvi replicar esse código criado em um dos vídeos do Canal Pythonando com meu celular, justamente para ver o comportamento dessa nova ferramenta. Sim, ela rodou, mas como é uma ferramenta em fase Alpha (até esse momento) e inclusive a home do pycript.net orienta que ainda não seja utilizado em projetos que estejam em produção, não ficou estéticamente bonito e o tempo de carregamento do código foi considerável.
 
 ## Apps utilizados em Mobile (Android)
 
-<i>TrabEdit (Editor de arquivos txt)<i>
-<i>Google Chrome<i>
+* TrabEdit (Editor de arquivos txt)
+* Google Chrome
 
 ## Referências
 
