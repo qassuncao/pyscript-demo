@@ -1,2 +1,4 @@
 # pyscript-demo
-código replicado via mobile para criar uma demonstração do PyScript
+
+## Descrição
+Código replicado via mobile para criar uma demonstração do PyScript com uma TO DO List.
